@@ -112,7 +112,7 @@ public class AnalizFragment extends Fragment {
         leftAxis.setSpaceTop(35f);
         leftAxis.setAxisMinimum(0f);
 
-        ////BURADAYIZZZZ
+        
 
         dersleriTvlereAta(dersİsimleriTvDizisi,derslerList);
         for(int i=0 ; i<derslerList.size() ; i++){
