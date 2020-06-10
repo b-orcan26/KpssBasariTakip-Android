@@ -1,5 +1,5 @@
 # Projede Kullanılanlar
- SQLite , Fragments , ViewPager , BroadcastReceivers , AlarmManager
+ SQLite , Fragments , ViewPager , BroadcastReceivers , AlarmManager ,  MpAndroidChart 
 
 # Ekran Görüntüleri
 
